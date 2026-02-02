@@ -1,5 +1,4 @@
 # A Framework for Verb Annotation of Spanish L2 Written Corpora Using Local LLMs (Study0B)
-The following Readme file has been created by Google Gemini and revised by Giovanni Zimotti
 
 A specialized research tool for Applied Linguists to analyze Spanish Second Language Acquisition (SLA) data.
 
@@ -9,7 +8,7 @@ This pipeline connects local Large Language Models (via Ollama) to your particip
 
 ## Which LLM? 
 
-This app requires a "Smart" model to handle the complex JSON logic. I am still testing different models, gpt-oss:120b seems to be having great results, Gemma 3:27b seems to find the most tenses with less accuracy.
+This app requires a "Smart" model to handle the complex JSON logic. 
 | LLM | Detection Recall | Tense ID Accuracy | Error Status Accuracy | Cohen's Kappa | N. of Tense Disagreements |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **gpt-oss:120b** | 93.2% | 92.0% | 94.9% | 0.893 | 11 |
