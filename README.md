@@ -1,4 +1,4 @@
-# A-Framework-for-Verb-Annotation-of-Spanish-L2-Written-Corpora-Using-Local-LLMs (Study0B)
+# A Framework for Verb Annotation of Spanish L2 Written Corpora Using Local LLMs (Study0B)
 The following Readme file has been created by Google Gemini and revised by Giovanni Zimotti
 
 A specialized research tool for Applied Linguists to analyze Spanish Second Language Acquisition (SLA) data.
