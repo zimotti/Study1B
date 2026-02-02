@@ -8,7 +8,6 @@ This pipeline connects local Large Language Models (via Ollama) to your particip
 
 ## Which LLM? 
 
-This app requires a "Smart" model to handle the complex JSON logic. 
 | LLM | Detection Recall | Tense ID Accuracy | Error Status Accuracy | Cohen's Kappa | N. of Tense Disagreements |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **gpt-oss:120b** | 93.2% | 92.0% | 94.9% | 0.893 | 11 |
