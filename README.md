@@ -1,6 +1,6 @@
 # A Framework for Verb Annotation of Spanish L2 Written Corpora Using Local LLMs (Study0B)
 
-A specialized research tool for Applied Linguists to analyze Spanish Second Language Acquisition (SLA) data.
+A framework for Applied Linguists to analyze Spanish Second Language Acquisition (SLA) data.
 
 This pipeline connects local Large Language Models (via Ollama) to your participants data to automate the extraction of **Suppliance in Obligatory Contexts (SOC)**. It uses a sliding-window approach to correctly identify tense (Preterite vs. Imperfect) based on narrative context.
 
